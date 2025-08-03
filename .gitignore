@@ -1,0 +1,7 @@
+*.dll
+*.lib
+*.def
+*.exe
+*.cfg
+Trash/
+Libs/
