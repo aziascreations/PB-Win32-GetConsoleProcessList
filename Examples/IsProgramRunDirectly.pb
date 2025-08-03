@@ -11,7 +11,7 @@
 ;    * PureBasic 6.0 LTS - C Backend (x64)
 ; 
 ; ==- Links & License -===========================
-;  License: Unlicense
+;  License: CC0 1.0 Universal (Public Domain)
 ;  GitHub: https://github.com/aziascreations/PB-Win32-GetConsoleProcessList
 ;}
 
