@@ -1,5 +1,6 @@
-# PB-Win32-GetconsoleProcessList
-Include that provides a wrapper for the `GetconsoleProcessList` Win32 function that isn't available by default in PureBasic.
+# PB-Win32-GetConsoleProcessList
+Include that provides a wrapper for the [GetConsoleProcessList](https://learn.microsoft.com/en-us/windows/console/getconsoleprocesslist)
+Win32 function that isn't available by default in PureBasic.
 
 
 ## Usage
