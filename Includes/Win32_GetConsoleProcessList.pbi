@@ -7,8 +7,8 @@
 ; ==- Compatibility -=============================
 ;  Compiler version:
 ;    * PureBasic 5.73 LTS (x86/x64)
-;    * PureBasic 6.0 LTS (x64)
-;    * PureBasic 6.0 LTS - C Backend (x64)
+;    * PureBasic 6.21 (x64)
+;    * PureBasic 6.21 - C Backend (x64)
 ; 
 ; ==- Links & License -===========================
 ;  License: CC0 1.0 Universal (Public Domain)
