@@ -2,6 +2,10 @@
 Include that provides a wrapper for the [GetConsoleProcessList](https://learn.microsoft.com/en-us/windows/console/getconsoleprocesslist)
 Win32 function that isn't available by default in PureBasic.
 
+> [!NOTE]
+> This include is in low maintenance mode. \
+> I consider it feature-complete, and unless a bug is found, I don't plan on updating it.
+
 
 ## Usage
 Adding submodule:
