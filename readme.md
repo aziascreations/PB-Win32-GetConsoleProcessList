@@ -4,7 +4,15 @@ Win32 function that isn't available by default in PureBasic.
 
 
 ## Usage
-TODO: Indicate how to clone and add as a sub-module.
+Adding submodule:
+```shell
+git submodule add https://github.com/aziascreations/PB-Win32-GetConsoleProcessList.git Includes/PB-Win32-GetConsoleProcessList
+```
+
+Pull latest submodule version:
+```shell
+git submodule update --init --recursive
+```
 
 
 ## Examples
@@ -35,13 +43,6 @@ EndIf
 
 End 0
 ```
-
-
-## Technical Remarks
-I was unable to use `.lib` files on x86 for this include for some weird reason.\
-The linker kept saying it couldn't find the symbol even when dumpbin showed it, and when I made my own `.lib` out of a `.def`.
-
-If you can fix this issue, feel free to contribute, or make your own repository.
 
 
 ## License
